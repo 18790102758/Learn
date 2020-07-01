@@ -5,3 +5,9 @@
 [Python语言基本语法元素](http://localhost:8888/notebooks/Python%E8%AF%AD%E8%A8%80%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95%E5%85%83%E7%B4%A0.ipynb)
 
 [基本数据类型](http://localhost:8888/notebooks/%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.ipynb)
+
+[程序的控制结构](http://localhost:8888/notebooks/%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%8E%A7%E5%88%B6%E7%BB%93%E6%9E%84.ipynb)
+
+```{.python .input}
+
+```
