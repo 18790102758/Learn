@@ -8,6 +8,4 @@
 
 [程序的控制结构](http://localhost:8888/notebooks/%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%8E%A7%E5%88%B6%E7%BB%93%E6%9E%84.ipynb)
 
-```{.python .input}
-
-```
+[函数和代码复用](http://localhost:8888/notebooks/%E5%87%BD%E6%95%B0%E5%92%8C%E4%BB%A3%E7%A0%81%E5%A4%8D%E7%94%A8.ipynb)
