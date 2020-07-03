@@ -11,3 +11,11 @@
 [函数和代码复用](http://localhost:8888/notebooks/%E5%87%BD%E6%95%B0%E5%92%8C%E4%BB%A3%E7%A0%81%E5%A4%8D%E7%94%A8.ipynb)
 
 [组合数据类型](http://localhost:8888/notebooks/%E7%BB%84%E5%90%88%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.ipynb)
+
+[文件和数据格式化](http://localhost:8888/notebooks/%E6%96%87%E4%BB%B6%E5%92%8C%E6%95%B0%E6%8D%AE%E6%A0%BC%E5%BC%8F%E5%8C%96.ipynb)
+
+[Python计算生态](http://localhost:8888/notebooks/Python%E8%AE%A1%E7%AE%97%E7%94%9F%E6%80%81.ipynb)
+
+```{.python .input}
+
+```
