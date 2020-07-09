@@ -17,3 +17,12 @@
 [Python计算生态](http://localhost:8888/notebooks/Python%E8%AE%A1%E7%AE%97%E7%94%9F%E6%80%81.ipynb)
 
 [Python标准库概览](http://localhost:8888/notebooks/Python%E6%A0%87%E5%87%86%E5%BA%93%E6%A6%82%E8%A7%88.ipynb)
+
+[Python第三方库概览](http://localhost:8888/notebooks/Python%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%93%E6%A6%82%E8%A7%88.ipynb)
+
+[Python第三方库纵览
+](http://localhost:8888/notebooks/Python%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%93%E7%BA%B5%E8%A7%88.ipynb)
+
+```{.python .input}
+
+```
